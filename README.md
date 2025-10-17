@@ -10,15 +10,15 @@
   
   - 🔭 I’m currently open to a new Job
   
-  - 🌱 I’m currently learning **Devops**
+  - 🌱 I’m mostly working on **Qubic Network**.
   
-  - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+  - 👨‍💻 All of my projects are available at [Aleriado's Github](http://github.com/aleriado)
   
-  - 💬 Ask me about **Java, Python, PHP and NodeJS**
+  - 💬 Ask me about **Rust, Solidity, Python, React/Next.js and Typescript with Tailwinds**
   
-  - 📫 How to reach me **supunnanayakkara01@gmail.com**
+  - 📫 How to reach me **naritadaiki3@gmail.com**
   
-  - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+  - 📄 Know about [my experiences](http://#resume)
   
   - ⚡ Fun fact **I think I'm funny**
 </div>
