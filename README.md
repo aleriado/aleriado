@@ -14,7 +14,7 @@
 * ✨ Skilled in **Rust, Solidity, Python, React / Next.js, TypeScript, and TailwindCSS**
 * ⚙️ Experienced in **smart contract engineering**, **DeFi architecture**, **dApp development**, and **node infrastructure**
 * 📫 Reach me at **[naritadaiki3@gmail.com](mailto:naritadaiki3@gmail.com)**
-* 📄 Learn more about my background [here](https://drive.google.com/file/d/1vZBeHlytJkVUhNb8V-QO1_3JLZGxPKul/view?usp=drive_link)
+* 📄 Learn more about my background <a href="https://drive.google.com/file/d/1vZBeHlytJkVUhNb8V-QO1_3JLZGxPKul/view?usp=drive_link" target="_blank">here</a>
 
 </div>
 
