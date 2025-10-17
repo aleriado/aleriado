@@ -6,10 +6,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aleriado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleriado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-  <h3 align="left">  
-Senior Blockchain Engineer with hands-on experience in designing, developing, and deploying decentralized applications and smart contracts across multiple ecosystems. <br />
-Skilled in Solidity, Rust, and Web3 integrations for building scalable, secure, and transparent blockchain solutions. Strong background in full-stack development, API integration, and cloud deployment with proven ability to bridge Web2 and Web3 technologies for enterprise-grade applications.
-</h3>
+<p align="left">
+Senior Blockchain Engineer experienced in designing and deploying decentralized applications and smart contracts across multiple ecosystems. Skilled in Solidity, Rust, and Web3 integrations, with a strong full-stack background bridging Web2 and Web3 for scalable, secure blockchain solutions.
+</p>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
