@@ -3,10 +3,11 @@
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
 </div>
+
 <div>
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   <br><br>
-  
+
 ### 👋 Hi, I’m Aleriado
 
 * 🔭 **Currently open to new opportunities** in blockchain and full-stack development
@@ -16,10 +17,9 @@
 * ⚙️ Experienced in **smart contract engineering**, **DeFi architecture**, **dApp development**, and **node infrastructure**
 * 📫 Reach me at **[naritadaiki3@gmail.com](mailto:naritadaiki3@gmail.com)**
 * 📄 Learn more about my background **[here](https://drive.google.com/file/d/1vZBeHlytJkVUhNb8V-QO1_3JLZGxPKul/view?usp=drive_link)**.
-
 </div>
+<br><br>
 
-  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=aleriado&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
 <img src="https://github-profile-trophy.vercel.app/?username=aleriado&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
