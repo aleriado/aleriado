@@ -8,19 +8,16 @@
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   <br><br>
   
-  - 🔭 I’m currently open to a new Job
-  
-  - 🌱 I’m mostly working on **Qubic Network**.
-  
-  - 👨‍💻 All of my projects are available at [Aleriado's Github](http://github.com/aleriado)
-  
-  - 💬 Ask me about **Rust, Solidity, Python, React/Next.js and Typescript with Tailwinds**
-  
-  - 📫 How to reach me **naritadaiki3@gmail.com**
-  
-  - 📄 Know about [my experiences](http://#resume)
-  
-  - ⚡ Fun fact **I think I'm funny**
+### 👋 Hi, I’m Aleriado
+
+* 🔭 **Currently open to new opportunities** in blockchain and full-stack development
+* 🌱 **Building and contributing to the [Qubic Network](https://qubic.world)** — focused on distributed computing and decentralized AI
+* 👨‍💻 Explore my open-source work at [Aleriado’s GitHub](https://github.com/aleriado)
+* 💬 Let’s talk about **Rust, Solidity, Python, React / Next.js, TypeScript, and TailwindCSS**
+* ⚙️ Experienced in **smart contract engineering**, **DeFi architecture**, **dApp development**, and **node infrastructure**
+* 📫 Reach me at **[naritadaiki3@gmail.com](mailto:naritadaiki3@gmail.com)**
+* 📄 Learn more about my background [here](#resume)
+
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
