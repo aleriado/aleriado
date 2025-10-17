@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aleriado&theme=matrix&no-bg=true&no-frame=true&row=1&column=8&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=aleriado&theme=matrix&no-bg=true&no-frame=true&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers">
 </div>
 
 
