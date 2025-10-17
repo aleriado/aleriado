@@ -9,7 +9,7 @@
 ### 👋 Hi, I’m Aleriado
 
 * 🔭 **Currently open to new opportunities** in blockchain and full-stack development
-* 🌱 **Building and contributing to the [Qubic Network](https://github.com/)** - focused on smart contract and frontend.
+* 🌱 **Building and contributing to the [Qubic Network](https://github.com/Qubic_core)** - focused on smart contract and frontend.
 * 👨‍💻 Explore my open-source work at [Aleriado’s GitHub](https://github.com/aleriado)
 * ✨ Skilled in **Rust, Solidity, Python, React / Next.js, TypeScript, and TailwindCSS**
 * ⚙️ Experienced in **smart contract engineering**, **DeFi architecture**, **dApp development**, and **node infrastructure**
