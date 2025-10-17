@@ -5,7 +5,8 @@
 </div>
 <div>
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
+  <br><br>
+  
 ### 👋 Hi, I’m Aleriado
 
 * 🔭 **Currently open to new opportunities** in blockchain and full-stack development
@@ -17,14 +18,13 @@
 * 📄 Learn more about my background **[here](https://drive.google.com/file/d/1vZBeHlytJkVUhNb8V-QO1_3JLZGxPKul/view?usp=drive_link)**.
 
 </div>
-  <br><br>
+
+  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=aleriado&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
-</div>
-
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=aleriado&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
 </div>
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <picture>
