@@ -17,7 +17,7 @@
 * 📄 Learn more about my background **[here](https://drive.google.com/file/d/1vZBeHlytJkVUhNb8V-QO1_3JLZGxPKul/view?usp=drive_link)**.
 
 </div>
-  
+  <br><br>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=aleriado&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
 </div>
