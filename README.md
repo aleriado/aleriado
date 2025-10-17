@@ -18,6 +18,18 @@
 
 </div>
 
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+</p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+</div>
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
