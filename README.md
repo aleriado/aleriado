@@ -8,7 +8,7 @@
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   <br><br>
 
-### 👋 Hi, I’m Aleriado
+### 👋 Hi, I’m Aleriado - Senior Blockchain Engineer.
 
 * 🔭 **Currently open to new opportunities** in blockchain and full-stack development
 * 🌱 **Recently working and contributing to the [Qubic Network](https://github.com/aleriado/Qubic_core)** - focused on smart contract and frontend development.
