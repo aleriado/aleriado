@@ -11,7 +11,7 @@
 ### 👋 Hi, I’m Aleriado - Senior Blockchain Engineer.
 
 * 🔭 **Currently open to new opportunities** in blockchain and full-stack development
-* 🌱 Recently working and contributing to the **[Qubic Network]([https://github.com/aleriado/qbond-dashboard])** - focused on smart contract and frontend development.
+* 🌱 Recently working and contributing to the **[Qubic Network](https://github.com/aleriado/qbond-dashboard)** - focused on smart contract and frontend development.
 * 👨‍💻 Explore my open-source work at **[Aleriado’s GitHub](https://github.com/aleriado)**
 * ✨ Skilled in **Rust, Solidity, Python, React / Next.js, TypeScript, and TailwindCSS**
 * ⚙️ Experienced in **smart contract engineering**, **DeFi architecture**, **dApp development**, and **node infrastructure**
