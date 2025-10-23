@@ -15,8 +15,7 @@
 * 👨‍💻 Explore my open-source work at **[Aleriado’s GitHub](https://github.com/aleriado)**
 * ✨ Skilled in **Rust, Solidity, Python, React / Next.js, TypeScript, and TailwindCSS**
 * ⚙️ Experienced in **smart contract engineering**, **DeFi architecture**, **dApp development**, and **node infrastructure**
-* 📫 Reach me at **[naritadaiki3@gmail.com](mailto:naritadaiki3@gmail.com)**
-* 📄 Learn more about my background **[here](https://drive.google.com/file/d/1vZBeHlytJkVUhNb8V-QO1_3JLZGxPKul/view?usp=drive_link)**.
+* 💖 Click **[here](https://aleriado.netlify.app/)** to view my portfolio.
 </div>
 
 <div align="center">
