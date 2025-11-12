@@ -15,7 +15,7 @@
 * 👨‍💻 Explore my open-source work at **[Aleriado’s GitHub](https://github.com/aleriado)**
 * ✨ Skilled in **Rust, Solidity, Python, React / Next.js, TypeScript, and TailwindCSS**
 * ⚙️ Experienced in **smart contract engineering**, **DeFi architecture**, **dApp development**, and **node infrastructure**
-* 💖 Click **[here](https://t.me/aleriado/)** to connect me using Telegram.
+
 </div>
 
 <div align="center">
