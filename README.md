@@ -18,8 +18,10 @@
 * ⚙️ Experienced in **smart contract engineering**, **DeFi protocol design**, **dApp architecture**, **node + infra ops**, and **cross-chain integrations**
 </div>
 
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=aleriado&theme=matrix&no-bg=true&no-frame=true&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers">
+
+<div align="center">
+
 </div>
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
