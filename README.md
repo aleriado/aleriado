@@ -12,10 +12,10 @@
 
 * 🔭 **Currently open to new opportunities** in blockchain and full-stack development
 * 🌱 **Recently contributing to the [Qubic Network](https://github.com/aleriado/qbond-dashboard)** focused on smart contracts, protocol logic, and frontend implementation
-* 🤖 **AI × Web Engineering**: building AI-powered dApps, agent-driven automation, model-integrated user flows, on-chain/off-chain AI pipelines, and LLM-enhanced developer tools
+* 🤖 **AI × Web Engineering**: building AI-powered dApps, AI agents, agent-driven automation, model-integrated user flows, on-chain/off-chain AI pipelines, and LLM-enhanced developer tools
 * 📱 **Cross-Platform Development**: experienced with **Expo / React Native**, crafting smooth mobile dApps, wallet-connected flows, auth systems, and production-ready UI/UX
 * ✨ Skilled in **Rust, Solidity, Python, React / Next.js, TypeScript, TailwindCSS**
-* ⚙️ Experienced in **smart contract engineering**, **DeFi protocol design**, **dApp architecture**, **node + infra ops**, and **cross-chain integrations**
+* ⚙️ Experienced in **smart contract engineering**, **DeFi protocol design**, **dApp architecture**, **node + infra ops**, **building mobile apps** and **cross-chain integrations**
 </div>
 
 <div align="center">
