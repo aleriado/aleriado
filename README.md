@@ -11,7 +11,7 @@
 ### 👋 Hi, I’m Aleriado - Senior Blockchain Engineer.
 
 * 🔭 **Currently open to new opportunities** in blockchain and full-stack development
-* 🌱 **Recently contributing to the [Qubic Network](https://github.com/aleriado/qbond-dashboard)** and **[Midnight](https://github.com/aleriado/NexiFuseApp)** focused on smart contracts, protocol logic, and frontend implementation
+* 🌱 **Recently contributing to the [Qubic](https://github.com/aleriado/qbond-dashboard)** and **[Midnight](https://github.com/aleriado/NexiFuseApp)** Ecosystems focused on smart contracts, protocol logic, and frontend implementation
 * 🤖 **AI × Web Engineering**: building AI-powered dApps, AI agents, agent-driven automation, model-integrated user flows, on-chain/off-chain AI pipelines, and LLM-enhanced developer tools
 * 📱 **Cross-Platform Development**: experienced with **Expo / React Native**, crafting smooth mobile dApps, wallet-connected flows, auth systems, and production-ready UI/UX
 * ✨ Skilled in **Rust, Solidity, Python, React / Next.js, TypeScript, TailwindCSS**
