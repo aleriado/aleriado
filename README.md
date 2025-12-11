@@ -11,7 +11,7 @@
 ### 👋 Hi, I’m **Aleriado** – Senior AI & Full Stack Engineer
 
 * 🔭 **Open to New Opportunities** in AI and Full-Stack development.
-* 🌱 **Active Contributed** to the [**Qbond**](https://github.com/aleriado/qbond-dashboard) on Qubic and [**NexiFuse**](https://nexifuse.com) in Midnight, focusing on smart contracts, protocol logic, frontend integration like [**NFT platform**](https://mkc1.onrender.com/) and  [**Qbond Dashboard**](https://qbond.org) in **Most Recently**.
+* 🌱 **Active Contributed** on building **decentralized web/mobile applications** that leverage AI for **optimized automation**, **AI agents**, enhanced user interactions, and cross-chain interoperability, while ensuring robust **backend and frontend integration**.
 * 🤖 **AI & Web Engineering:** Designed AI-powered dApps, developing agent-driven automation systems, building AI agents on **Virtual Protocol**, model-integrated user flows, and created on-chain/off-chain AI pipelines.
 * 📱 **Cross-Platform Development:** Expert in **Expo / React Native**, crafting mobile dApps, wallet-connected flows, authentication systems, and production-ready UI/UX and backend development.
 * ✨ **Technical Expertise:** Proficient in **Rust**, **Solidity**, **Python**, **React/Next.js**, **Expo/React Native**, **TypeScript**, and **TailwindCSS**, and **Django**, **Node.js**, **Express** and **NestJS** in Backend field.
