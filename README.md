@@ -8,14 +8,13 @@
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   <br><br>
 
-### 👋 Hi, I’m Aleriado - Senior Blockchain Engineer.
+### 👋 Hi, I’m **Aleriado** – Senior AI & Full Stack Blockchain Engineer
 
-* 🔭 **Currently open to new opportunities** in blockchain and full-stack development
-* 🌱 **Recently contributing to the [Qubic](https://github.com/aleriado/qbond-dashboard)** and **[Midnight](https://github.com/aleriado/NexiFuseApp)** Ecosystems focused on smart contracts, protocol logic, and frontend implementation
-* 🤖 **AI × Web Engineering**: building AI-powered dApps, AI agents, agent-driven automation, model-integrated user flows, on-chain/off-chain AI pipelines, and LLM-enhanced developer tools
-* 📱 **Cross-Platform Development**: experienced with **Expo / React Native**, crafting smooth mobile dApps, wallet-connected flows, auth systems, and production-ready UI/UX
-* ✨ Skilled in **Rust, Solidity, Python, React / Next.js, TypeScript, TailwindCSS**
-* ⚙️ Experienced in **smart contract engineering**, **DeFi protocol design**, **dApp architecture**, **node + infra ops**, **building mobile apps** and **cross-chain integrations**
+* 🔭 **Open to New Opportunities** in AI and Full-Stack development.
+* 🌱 **Active Contributed** to the [**Qubic**](https://qbond.org) and [**Midnight**](https://nexifuse.com) ecosystems, focusing on smart contracts, protocol logic, frontend integration like NFT platform [**MKC(Magic Kitties Community)**](https://mkc1.onrender.com/) in **Most Recently**.
+* 🤖 **AI & Web Engineering:** Designed AI-powered dApps, developing agent-driven automation systems, building AI agents on **Virtual Protocol**, model-integrated user flows, and created on-chain/off-chain AI pipelines.
+* 📱 **Cross-Platform Development:** Expert in **Expo / React Native**, crafting mobile dApps, wallet-connected flows, authentication systems, and production-ready UI/UX and backend development.
+* ✨ **Technical Expertise:** Proficient in **Rust**, **Solidity**, **Python**, **React/Next.js**, **Expo/React Native**, **TypeScript**, and **TailwindCSS**, and **Django**, **Node.js**, **Express** and **NestJS** in Backend field.
 </div>
 
 <div align="center">
