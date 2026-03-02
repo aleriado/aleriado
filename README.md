@@ -10,16 +10,19 @@
 
 <br>
 
+<h1 align="center">
+🚀 Senior AI/ML & Full Stack | Blockchain Engineer
+</h1>
+
 <div>
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 Senior AI/ML & Full Stack | Blockchain Engineer
-
 I architect and build **intelligent, scalable systems** at the intersection of **Artificial Intelligence**, **Full-Stack Engineering**, and **Blockchain Technology**. With deep expertise across the entire development lifecycle, I transform complex ideas into production-grade applications.
 
-- 🔭 **Currently:** Open to impactful opportunities in AI, Full-Stack, and Web3 development
-- 📱 **Mobile Engineering:** Building high-performance cross-platform iOS & Android applications with native-level quality and Web3 integration
-- ⚡ **Philosophy:** Clean architecture, scalable design patterns, and relentless optimization
+- 🔭 **Currently:** Seeking impactful opportunities at the cutting edge of AI-driven systems, full-stack architecture, and decentralized infrastructure.
+- 📱 **Mobile Engineering:** Shipping high-performance cross-platform iOS & Android applications with native-grade UX, wallet-connected flows, and deep Web3 integration.
+- ⚡ **Philosophy:** Zero shortcuts - clean architecture, scalable design patterns, and relentless optimization in every commit.
+- 💪 **Strength** : Every system I build is production-first - stress-tested for real-time data, high concurrency, and enterprise-scale reliability from day one.
 
 </div>
 
@@ -37,7 +40,7 @@ I architect and build **intelligent, scalable systems** at the intersection of *
 > Designing and deploying **autonomous AI agent systems** using LangChain, LangGraph, CrewAI, and AutoGen. Building **RAG pipelines** (Retrieval-Augmented Generation) with vector databases (Pinecone, Weaviate, ChromaDB) for context-aware, hallucination-reduced AI applications. Fine-tuning LLMs (GPT-4, Claude, LLaMA, Mistral) with LoRA/QLoRA for domain-specific tasks.
 
 **🔬 Machine Learning & Deep Learning**
-> Developing end-to-end ML pipelines — from data preprocessing and feature engineering to model training, evaluation, and deployment. Proficient in **TensorFlow**, **PyTorch**, and **scikit-learn** for supervised/unsupervised learning, NLP (transformers, sentiment analysis, NER), computer vision (CNNs, YOLO, diffusion models), and time-series forecasting.
+> Developing end-to-end ML pipelines - from data preprocessing and feature engineering to model training, evaluation, and deployment. Proficient in **TensorFlow**, **PyTorch**, and **scikit-learn** for supervised/unsupervised learning, NLP (transformers, sentiment analysis, NER), computer vision (CNNs, YOLO, diffusion models), and time-series forecasting.
 
 **⚙️ MLOps & AI Infrastructure**
 > Building scalable AI serving infrastructure with **FastAPI**, **vLLM**, and **TensorRT** for low-latency inference. Implementing CI/CD for ML models using MLflow, Weights & Biases, and Kubeflow. Deploying on **AWS SageMaker**, **GCP Vertex AI**, and custom Kubernetes clusters with GPU orchestration.
@@ -61,7 +64,7 @@ I architect and build **intelligent, scalable systems** at the intersection of *
 > Architecting and auditing **production-grade smart contracts** in **Solidity** and **Rust** (Solana/Anchor). Building upgradeable contract systems (Proxy patterns, Diamond Standard EIP-2535), gas-optimized logic, and multi-sig governance. Extensive experience with **ERC-20**, **ERC-721**, **ERC-1155**, **ERC-4626** (tokenized vaults), and custom token standards.
 
 **💰 DeFi Protocol Development**
-> Designing and implementing DeFi primitives — **AMMs** (Uniswap V2/V3 forks), **lending/borrowing protocols** (Aave-style), **yield aggregators**, **staking mechanisms**, **liquid staking derivatives**, and **perpetual DEXs**. Building MEV-resistant architectures and flash loan integrations.
+> Designing and implementing DeFi primitives - **AMMs** (Uniswap V2/V3 forks), **lending/borrowing protocols** (Aave-style), **yield aggregators**, **staking mechanisms**, **liquid staking derivatives**, and **perpetual DEXs**. Building MEV-resistant architectures and flash loan integrations.
 
 **🌐 Cross-Chain & Interoperability**
 > Developing cross-chain bridging solutions using **LayerZero**, **Wormhole**, **Axelar**, and **Chainlink CCIP**. Building omnichain dApps with unified liquidity layers across EVM chains, Solana, and Cosmos ecosystem. Implementing cross-chain messaging and state verification protocols.
@@ -91,13 +94,13 @@ I architect and build **intelligent, scalable systems** at the intersection of *
 > Developing pixel-perfect, high-performance cross-platform apps with **Flutter** and **Dart**. Experienced with **Riverpod/Bloc** state management, custom **Widget** composition, **Platform Channels** for native iOS (Swift) and Android (Kotlin) bridging, and **Flame** engine for 2D game development. Implementing complex UI with **Slivers**, **CustomPainter**, and advanced animation controllers.
 
 **🍎 iOS & Android Native Integration**
-> Deep understanding of native platform capabilities — **Swift/SwiftUI** for iOS and **Kotlin/Jetpack Compose** for Android. Implementing platform-specific features including **Push Notifications** (APNs/FCM), **Biometric Authentication** (Face ID, Touch ID, Fingerprint), **Camera/AR** integrations, **In-App Purchases** (StoreKit 2, Google Play Billing), **HealthKit/Health Connect**, and **Core ML/ML Kit** for on-device AI inference.
+> Deep understanding of native platform capabilities - **Swift/SwiftUI** for iOS and **Kotlin/Jetpack Compose** for Android. Implementing platform-specific features including **Push Notifications** (APNs/FCM), **Biometric Authentication** (Face ID, Touch ID, Fingerprint), **Camera/AR** integrations, **In-App Purchases** (StoreKit 2, Google Play Billing), **HealthKit/Health Connect**, and **Core ML/ML Kit** for on-device AI inference.
 
 **🔗 Web3 Mobile & Wallet Integration**
 > Crafting **mobile-first dApp experiences** with seamless wallet connectivity using **WalletConnect v2**, **Coinbase Wallet SDK**, and **MetaMask SDK**. Building secure **in-app wallet** solutions with **react-native-keychain** for encrypted key storage. Implementing deep linking for transaction signing, **EIP-4361 (Sign-In with Ethereum)** flows, on-chain data rendering, and real-time blockchain event subscriptions in mobile environments.
 
 **🎨 UI/UX & Performance Optimization**
-> Designing and implementing **pixel-perfect, accessible interfaces** following **Apple HIG** and **Material Design 3** guidelines. Expert in responsive layouts with **NativeWind (Tailwind for RN)**, **Styled Components**, and platform-adaptive design patterns. Performance profiling with **Flipper**, **React DevTools**, and **Xcode Instruments** — optimizing bundle sizes, reducing JS thread blocking, implementing **lazy loading**, **virtualized lists** (FlashList), and offline-first architectures with **WatermelonDB/MMKV**.
+> Designing and implementing **pixel-perfect, accessible interfaces** following **Apple HIG** and **Material Design 3** guidelines. Expert in responsive layouts with **NativeWind (Tailwind for RN)**, **Styled Components**, and platform-adaptive design patterns. Performance profiling with **Flipper**, **React DevTools**, and **Xcode Instruments** - optimizing bundle sizes, reducing JS thread blocking, implementing **lazy loading**, **virtualized lists** (FlashList), and offline-first architectures with **WatermelonDB/MMKV**.
 
 **🚀 Backend Integration & DevOps**
 > Implementing robust mobile backend services with **Firebase** (Auth, Firestore, Cloud Functions, Analytics), **Supabase** (Realtime, Edge Functions), and custom **REST/GraphQL** APIs. Setting up **CodePush** for instant updates, **Fastlane** for automated App Store/Play Store deployments, **Detox/Maestro** for E2E testing, and **Sentry/Crashlytics** for real-time crash monitoring and performance tracking across both platforms.
