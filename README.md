@@ -17,12 +17,11 @@
 <div>
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I architect and build **intelligent, scalable systems** at the intersection of **Artificial Intelligence**, **Full-Stack Engineering**, and **Blockchain Technology**. With deep expertise across the entire development lifecycle, I transform complex ideas into production-grade applications.
+I architect and build **intelligent, scalable systems** at the intersection of **Artificial Intelligence**, **Full-Stack Engineering**, and **Blockchain Technology**. From cloud-native backends and cross-platform mobile apps to DeFi protocols and AI agents, I transform complex ideas into production-grade applications.
 
 - 🔭 **Currently:** Seeking impactful opportunities at the cutting edge of AI-driven systems, full-stack architecture, and decentralized infrastructure.
-- 📱 **Mobile Engineering:** Shipping high-performance cross-platform iOS & Android applications with native-grade UX, wallet-connected flows, and deep Web3 integration.
 - ⚡ **Philosophy:** Zero shortcuts - clean architecture, scalable design patterns, and relentless optimization in every commit.
-- 💪 **Strength** : Every system I build is production-first - stress-tested for real-time data, high concurrency, and enterprise-scale reliability from day one.
+- 💪 **Strength:** Production-first engineering - stress-tested for real-time data, high concurrency, and enterprise-scale reliability.
 
 </div>
 
@@ -36,17 +35,11 @@ I architect and build **intelligent, scalable systems** at the intersection of *
   <tr>
     <td>
 
-**🤖 Large Language Models & AI Agents**
-> Designing and deploying **autonomous AI agent systems** using LangChain, LangGraph, CrewAI, and AutoGen. Building **RAG pipelines** (Retrieval-Augmented Generation) with vector databases (Pinecone, Weaviate, ChromaDB) for context-aware, hallucination-reduced AI applications. Fine-tuning LLMs (GPT-4, Claude, LLaMA, Mistral) with LoRA/QLoRA for domain-specific tasks.
+**🤖 LLMs & AI Agents** :Autonomous agent systems with LangChain, LangGraph, CrewAI. RAG pipelines with Pinecone/Weaviate/ChromaDB. Fine-tuning GPT-4, Claude, LLaMA, Mistral via LoRA/QLoRA.
 
-**🔬 Machine Learning & Deep Learning**
-> Developing end-to-end ML pipelines - from data preprocessing and feature engineering to model training, evaluation, and deployment. Proficient in **TensorFlow**, **PyTorch**, and **scikit-learn** for supervised/unsupervised learning, NLP (transformers, sentiment analysis, NER), computer vision (CNNs, YOLO, diffusion models), and time-series forecasting.
+**🔬 ML & Deep Learning** :End-to-end pipelines with TensorFlow, PyTorch, scikit-learn. NLP, computer vision (YOLO, diffusion models), and time-series forecasting.
 
-**⚙️ MLOps & AI Infrastructure**
-> Building scalable AI serving infrastructure with **FastAPI**, **vLLM**, and **TensorRT** for low-latency inference. Implementing CI/CD for ML models using MLflow, Weights & Biases, and Kubeflow. Deploying on **AWS SageMaker**, **GCP Vertex AI**, and custom Kubernetes clusters with GPU orchestration.
-
-**🧩 AI-Powered Application Integration**
-> Creating intelligent features including real-time chatbots, AI-driven recommendation engines, semantic search, automated content generation, code copilots, and multimodal AI pipelines (text + image + audio). Building AI agents on **Virtual Protocol** and integrating on-chain/off-chain AI data flows.
+**⚙️ MLOps** :Low-latency inference with FastAPI, vLLM, TensorRT. Deployment on AWS SageMaker, GCP Vertex AI, and GPU-orchestrated Kubernetes.
 
   </td>
   </tr>
@@ -54,56 +47,19 @@ I architect and build **intelligent, scalable systems** at the intersection of *
 
 ---
 
-<h2 align="center">⛓️ Blockchain & Web3 Development</h2>
+<h2 align="center">⛓️ Full Stack & Blockchain</h2>
 
 <table>
   <tr>
     <td>
 
-**📝 Smart Contract Engineering**
-> Architecting and auditing **production-grade smart contracts** in **Solidity** and **Rust** (Solana/Anchor). Building upgradeable contract systems (Proxy patterns, Diamond Standard EIP-2535), gas-optimized logic, and multi-sig governance. Extensive experience with **ERC-20**, **ERC-721**, **ERC-1155**, **ERC-4626** (tokenized vaults), and custom token standards.
+**📝 Smart Contracts** :Production-grade Solidity & Rust (Solana/Anchor). Upgradeable patterns (Diamond EIP-2535), gas optimization, ERC-20/721/1155/4626.
 
-**💰 DeFi Protocol Development**
-> Designing and implementing DeFi primitives - **AMMs** (Uniswap V2/V3 forks), **lending/borrowing protocols** (Aave-style), **yield aggregators**, **staking mechanisms**, **liquid staking derivatives**, and **perpetual DEXs**. Building MEV-resistant architectures and flash loan integrations.
+**💰 DeFi & Cross-Chain** :AMMs, lending protocols, yield aggregators, perpetual DEXs. Cross-chain via LayerZero, Wormhole, Chainlink CCIP.
 
-**🌐 Cross-Chain & Interoperability**
-> Developing cross-chain bridging solutions using **LayerZero**, **Wormhole**, **Axelar**, and **Chainlink CCIP**. Building omnichain dApps with unified liquidity layers across EVM chains, Solana, and Cosmos ecosystem. Implementing cross-chain messaging and state verification protocols.
+**🌐 Full-Stack dApps** :React/Next.js + Ethers.js/Viem/Wagmi frontends. Node.js/NestJS/Django/FastAPI backends. The Graph indexing, IPFS storage.
 
-**🏗️ Full-Stack dApp Architecture**
-> Building end-to-end decentralized applications with **Ethers.js/Viem**, **Wagmi**, **Web3.js**, and **RainbowKit/ConnectKit** for wallet integration. Subgraph development with **The Graph** for on-chain data indexing. IPFS/Arweave for decentralized storage. Backend services with real-time event listeners, transaction queuing, and multi-chain RPC management.
-
-**🔒 Security & Auditing**
-> Performing smart contract security audits using **Slither**, **Mythril**, **Foundry** fuzzing, and manual code review. Identifying and mitigating vulnerabilities including reentrancy, front-running, oracle manipulation, and access control flaws. Writing comprehensive test suites with **Hardhat** and **Foundry** achieving 100% coverage.
-
-  </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">📱 Mobile App Development</h2>
-
-<table>
-  <tr>
-    <td>
-
-**⚛️ React Native & Expo**
-> Building **production-grade iOS & Android applications** from a single codebase using **React Native CLI** and **Expo (SDK 50+)**. Implementing custom native modules with **Turbo Modules** and **Fabric renderer** for near-native performance. Expert in **Expo Router** for file-based navigation, **EAS Build/Submit** for CI/CD pipelines, and **OTA updates** for rapid deployment. Building complex animations with **Reanimated 3** and **Gesture Handler** for fluid 60fps interactions.
-
-**🦋 Flutter & Dart**
-> Developing pixel-perfect, high-performance cross-platform apps with **Flutter** and **Dart**. Experienced with **Riverpod/Bloc** state management, custom **Widget** composition, **Platform Channels** for native iOS (Swift) and Android (Kotlin) bridging, and **Flame** engine for 2D game development. Implementing complex UI with **Slivers**, **CustomPainter**, and advanced animation controllers.
-
-**🍎 iOS & Android Native Integration**
-> Deep understanding of native platform capabilities - **Swift/SwiftUI** for iOS and **Kotlin/Jetpack Compose** for Android. Implementing platform-specific features including **Push Notifications** (APNs/FCM), **Biometric Authentication** (Face ID, Touch ID, Fingerprint), **Camera/AR** integrations, **In-App Purchases** (StoreKit 2, Google Play Billing), **HealthKit/Health Connect**, and **Core ML/ML Kit** for on-device AI inference.
-
-**🔗 Web3 Mobile & Wallet Integration**
-> Crafting **mobile-first dApp experiences** with seamless wallet connectivity using **WalletConnect v2**, **Coinbase Wallet SDK**, and **MetaMask SDK**. Building secure **in-app wallet** solutions with **react-native-keychain** for encrypted key storage. Implementing deep linking for transaction signing, **EIP-4361 (Sign-In with Ethereum)** flows, on-chain data rendering, and real-time blockchain event subscriptions in mobile environments.
-
-**🎨 UI/UX & Performance Optimization**
-> Designing and implementing **pixel-perfect, accessible interfaces** following **Apple HIG** and **Material Design 3** guidelines. Expert in responsive layouts with **NativeWind (Tailwind for RN)**, **Styled Components**, and platform-adaptive design patterns. Performance profiling with **Flipper**, **React DevTools**, and **Xcode Instruments** - optimizing bundle sizes, reducing JS thread blocking, implementing **lazy loading**, **virtualized lists** (FlashList), and offline-first architectures with **WatermelonDB/MMKV**.
-
-**🚀 Backend Integration & DevOps**
-> Implementing robust mobile backend services with **Firebase** (Auth, Firestore, Cloud Functions, Analytics), **Supabase** (Realtime, Edge Functions), and custom **REST/GraphQL** APIs. Setting up **CodePush** for instant updates, **Fastlane** for automated App Store/Play Store deployments, **Detox/Maestro** for E2E testing, and **Sentry/Crashlytics** for real-time crash monitoring and performance tracking across both platforms.
+**🔒 Security** :Smart contract audits with Slither, Mythril, Foundry fuzzing. 100% test coverage with Hardhat & Foundry.
 
   </td>
   </tr>
@@ -247,40 +203,6 @@ I architect and build **intelligent, scalable systems** at the intersection of *
   </tr>
 </table>
 
-<h3 align="center">Blockchain & Web3</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-      <br><strong>Solidity</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Anchor/Rust" />
-      <br><strong>Anchor</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/⚡-EJ-blue?style=for-the-badge" height="48" alt="Ethers.js" />
-      <br><strong>Ethers.js</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/🔨-HH-yellow?style=for-the-badge" height="48" alt="Hardhat" />
-      <br><strong>Hardhat</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/🔥-FN-red?style=for-the-badge" height="48" alt="Foundry" />
-      <br><strong>Foundry</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ipfs" width="48" height="48" alt="IPFS" />
-      <br><strong>IPFS</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/📡-TG-purple?style=for-the-badge" height="48" alt="The Graph" />
-      <br><strong>The Graph</strong>
-    </td>
-  </tr>
-</table>
-
 <h3 align="center">Database & Cloud</h3>
 <table align="center">
   <tr>
@@ -383,25 +305,3 @@ I architect and build **intelligent, scalable systems** at the intersection of *
   </tr>
 </table>
 
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aleriado&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleriado&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph" />
-</p>
-
----
-<div align="center">
-
-### 💡 *"Building the future, one intelligent system at a time."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
